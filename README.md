@@ -1,2 +1,2 @@
 # sidehustleassg
-Generate Random numbers
+Generate random numbers, calculator and session & cookies
